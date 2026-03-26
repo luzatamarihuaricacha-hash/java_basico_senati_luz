@@ -100,7 +100,6 @@ public class Operadores {
 		
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Operadores op = new Operadores();
 		op.operadoresAritmeticos();
 		op.operadoresRelacionales();
